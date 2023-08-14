@@ -29,9 +29,9 @@ const music_list = [
     },
     {
         img : '3.jpg',
-        name : 'Apna Bana Le',
+        name : 'Kabira',
         artist : 'UMER Q',
-        music : 'APNA BANA Le.mp3'
+        music : 'kabira.mp3'
     },
     {
         img : '2.jpg',
